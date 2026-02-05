@@ -5,7 +5,6 @@
   font-family: Arial, sans-serif;
 }
 
-/* Header */
 header {
   background-image: url("./MintiflyImages/Mintifly-bg.svg");
   background-size: cover;
@@ -14,7 +13,7 @@ header {
   padding-top: 150px;
 }
 
-/* Navbar */
+
 nav {
   position: fixed;
   top: 0;
@@ -62,12 +61,10 @@ nav {
   background-color: #fff;
   color: #111;
 }
-/* CTA wrapper */
 .cta-wrapper {
   text-align: center;
 }
 
-/* Badge */
 .CTA {
   display: inline-flex;
   align-items: center;
@@ -92,7 +89,6 @@ nav {
   font-size: 16px;
 }
 
-/* Heading */
 .platform {
   margin-bottom: 32px;
 }
@@ -104,7 +100,6 @@ nav {
   color: #fff;
 }
 
-/* Sub text */
 .teams {
   margin-bottom: 48px;
 }
@@ -115,7 +110,6 @@ nav {
   color: #fff;
 }
 
-/* Input */
 .btn-wrapper {
   display: flex;
   justify-content: center;
@@ -151,7 +145,6 @@ nav {
   cursor: pointer;
 }
 
-/* Image */
 .image {
   display: flex;
   justify-content: center;
@@ -174,7 +167,6 @@ section {
   font-family: Arial, sans-serif;
 }
 
-/* Logo grid */
 .company ul {
   list-style: none;
   display: grid;
@@ -183,13 +175,11 @@ section {
   align-items: center;
 }
 
-/* Logo item */
 .company li {
   display: flex;
   justify-content: center;
 }
 
-/* Logo link */
 .company a {
   text-decoration: none;
   font-size: 28px;
@@ -203,7 +193,6 @@ section {
   font-weight: 600;
 }
 
-/* PayPal styling */
 .company span {
   color: #0070ba;
   font-style: italic;
@@ -237,7 +226,7 @@ section {
 }
 .left-template,
 .right-template {
-  min-height: 560px; /* fixed height hatao */
+  min-height: 560px; 
   padding: 24px;
   border: 2px solid lavender;
   border-radius: 25px;
@@ -425,7 +414,6 @@ section {
   text-decoration: none;
 }
 
-/* stats */
 .stats {
   display: flex;
   gap: 80px;
