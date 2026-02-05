@@ -8,7 +8,7 @@ This project focuses on layout structure, modern UI design, spacing, typography,
 ## 🔗 Live Preview
 > (Optional)  
 Add your deployed link here  
-Example: https://your-username.github.io/mintlify-clone/
+Example: https://dipanshu-mintifly-web-page.vercel.app/
 
 ---
 
